@@ -1,4 +1,4 @@
-# Fast GPS Decode
+# Fast GPS Decode - WS22
 
 Lab exercise:
 - decode GPS signal
